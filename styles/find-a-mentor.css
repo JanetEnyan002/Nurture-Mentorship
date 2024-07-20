@@ -1,0 +1,29 @@
+/* HERO SECTION  */
+.hero-section {
+  height: 30vh;
+  width: 100%;
+  background-color: grey;
+  position: relative;
+}
+
+.hero-section .text {
+  width: 80%;
+  margin: auto;
+  top: 30%;
+  right: 5%;
+  /* background-color: green; */
+  position: absolute;
+}
+
+.text h2 {
+  margin-top: 6px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.text p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+/* END OF HERO SECTION  */
